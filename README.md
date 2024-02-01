@@ -1,3 +1,4 @@
+DESCRIPTION:
 The number of prosumers is increasing very fast, and addressing the issues related to energy imbalance and their rising costs are important. If this issue remains unaddressed, then it may give rise to higher operational costs, possible grid instability as well, and also it will lead to poor utilization of energy resources. 
 With effective fixing of this problem, the imbalance costs will be appreciably reduced, ensuring greater stability of the grid and making it more efficient and sustainable to accommodate the prosumers into the energy system.
 Moreover,it would possibly motivate more consumers to become prosumers, knowing that their energy behavior could be well managed enough hence promoting the production and use of renewable energy.
