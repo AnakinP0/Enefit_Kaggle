@@ -7,8 +7,13 @@ Requirements:
 Python 3.6
 
 category-encoders    2.6.3
+
 numpy                1.19.5
+
 pandas               1.1.5
+
 scikit-learn         0.24.2
+
 scikit-optimize      0.9.0
+
 xgboost              1.5.2
